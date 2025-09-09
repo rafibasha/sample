@@ -1,1 +1,2 @@
 splunk forworder,index,search componets
+forwoder has infex.conf,output.conf file
