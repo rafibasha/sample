@@ -1,0 +1,1 @@
+splunk forworder,index,search componets
